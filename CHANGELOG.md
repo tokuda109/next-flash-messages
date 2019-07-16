@@ -1,5 +1,14 @@
 This is intended as an overview of the major changes.
 
+## 0.2.0
+
+Released on July X, 2019.
+
+* Fix lodash security vulnerability #1
+* Refactor core implementation
+* Update dependent package version
+* Setup CircleCI
+
 ## 0.1.0
 
 Released on May 4, 2019.

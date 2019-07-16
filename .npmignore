@@ -11,3 +11,6 @@ test
 jest.config.js
 rollup.config.js
 tsconfig.json
+
+CHANGELOG.md
+README.md
